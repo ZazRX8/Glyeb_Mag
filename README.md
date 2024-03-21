@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a beginner developer.
 --------------------------
 
-* 🌍  I'm based in Испания
+* 🌍  I'm based in Spain
 * ✉️  You can contact me at [magazgleb@gmail.com](mailto:magazgleb@gmail.com)
 
 ### Skills
